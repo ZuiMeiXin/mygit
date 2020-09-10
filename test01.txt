@@ -1,0 +1,17 @@
+this is a test 
+i want see you anymore
+do you want kiss me 
+i think you want kill me
+i want kill you too
+AMD yes
+git status
+git add fileName
+git commit -m message fileName
+git checkout fileName
+git log
+git diff fileName
+git reflog
+git log --pretty=oneline
+git reset HEAD~
+git reset HEAD~~
+git reset HEAD~100
